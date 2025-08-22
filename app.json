@@ -22,7 +22,7 @@
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "_Hi bro am alive now🥷🏽🤝🏾._"
+      "value": "_Hi bro am alive now🥷🏽卐 ΛZΣЯƬY ꧁ʸ–ᵃᵈᵃᵐˢ꧂🤝🏾._"
     },
     
     "PREFIX": {
@@ -34,7 +34,7 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": true,
-      "value": "public"
+      "value": "private"
     }, 
 
     "AUTO_VOICE": {
@@ -93,7 +93,7 @@
     }, 
 
     "BOT_NAME": {
-      "description": "write hear your name.",
+      "description": "卐 ΛZΣЯƬY ꧁ʸ–ᵃᵈᵃᵐˢ꧂",
       "required": true,
       "value": "✦ 𝗫𝗧𝗥𝗘𝗠𝗘 𝗫𝗠𝗗 ✦"
     }, 
